@@ -1,4 +1,4 @@
 # Laptop-HariB-Bookbot
 # bookbot
-Hello!
+Hello
 BookBot is my first [Boot.dev](https://www.boot.dev) project!
